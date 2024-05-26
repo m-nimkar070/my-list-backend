@@ -78,3 +78,6 @@ Reason: Pagination breaks down large data sets into smaller, manageable chunks, 
 
 ### Updated deployment link
 https://my-list-backend-095n.onrender.com
+
+### Postman collection JSON file
+https://drive.google.com/file/d/1ky71r0gkTKNhVU1fwa36hzyXyGW-Q-AT/view?usp=drivesdk
